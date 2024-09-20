@@ -1,0 +1,49 @@
+2024-09-17 15:34:08: IN UPLOAD FILE
+2024-09-17 15:34:08: IN UPLOAD FILE : Empcode :T0060
+2024-09-17 15:34:08: IN UPLOAD FILE : Check File
+2024-09-17 15:34:09: IN UPLOAD FILE : Check FileExtension.xlsx
+2024-09-17 15:34:09: IN UPLOAD FILE : Try Block:
+2024-09-17 15:34:09: IN UPLOAD FILE : FileSave :
+2024-09-17 15:34:13: IN UPLOAD FILE : Using WorkbookXLWorkbook(C:\Users\corp_3\source\repos\EmployeeApplication\EmployeeApplication\Client Codes.xlsx)
+2024-09-17 15:34:13: IN UPLOAD FILE : Create Worksheet :Sheet1
+2024-09-17 15:34:13: IN UPLOAD FILE : Inside Foreach Loop:
+2024-09-17 15:34:13: IN UPLOAD FILE : Check FirstRow:True
+2024-09-17 15:34:13: IN UPLOAD FILE : Inside Foreach loop in Cell :A1
+2024-09-17 15:34:13: IN UPLOAD FILE : Add Columns :
+2024-09-17 15:34:13: IN UPLOAD FILE : Inside Foreach loop in Cell :B1
+2024-09-17 15:34:13: IN UPLOAD FILE : Add Columns :
+2024-09-17 15:34:13: IN UPLOAD FILE : Inside Foreach Loop:
+2024-09-17 15:34:13: IN UPLOAD FILE : Foreach Loop in Rows :A2
+2024-09-17 15:34:13: IN UPLOAD FILE : Foreach Loop in Rows :B2
+2024-09-17 15:34:13: IN UPLOAD FILE : Inside Foreach Loop:
+2024-09-17 15:34:13: IN UPLOAD FILE : Foreach Loop in Rows :A3
+2024-09-17 15:34:13: IN UPLOAD FILE : Foreach Loop in Rows :B3
+2024-09-17 15:34:13: IN UPLOAD FILE : Inside Foreach Loop:
+2024-09-17 15:34:13: IN UPLOAD FILE : Foreach Loop in Rows :A4
+2024-09-17 15:34:13: IN UPLOAD FILE : Foreach Loop in Rows :B4
+2024-09-17 15:34:13: IN UPLOAD FILE : Inside Foreach Loop:
+2024-09-17 15:34:13: IN UPLOAD FILE : Foreach Loop in Rows :A5
+2024-09-17 15:34:13: IN UPLOAD FILE : Foreach Loop in Rows :B5
+2024-09-17 15:34:13: IN UPLOAD FILE : Inside Foreach Loop:
+2024-09-17 15:34:13: IN UPLOAD FILE : Foreach Loop in Rows :A6
+2024-09-17 15:34:13: IN UPLOAD FILE : Foreach Loop in Rows :B6
+2024-09-17 15:34:13: IN UPLOAD FILE : Inside Foreach Loop:
+2024-09-17 15:34:13: IN UPLOAD FILE : Foreach Loop in Rows :A7
+2024-09-17 15:34:13: IN UPLOAD FILE : Foreach Loop in Rows :B7
+2024-09-17 15:34:13: IN UPLOAD FILE : Inside Foreach Loop:
+2024-09-17 15:34:13: IN UPLOAD FILE : Foreach Loop in Rows :A8
+2024-09-17 15:34:13: IN UPLOAD FILE : Foreach Loop in Rows :B8
+2024-09-17 15:34:15: IN UPLOAD FILE : Using Package :OfficeOpenXml.ExcelPackage
+2024-09-17 15:34:15: IN UPLOAD FILE : Inside DataTable :
+2024-09-17 15:34:15: IN UPLOAD FILE : FirstRowIsColumnNames = True
+2024-09-17 15:34:15: IN UPLOAD FILE : Add Columns to Result
+2024-09-17 15:34:16: IN ProcessClientCode Method : Try Block
+2024-09-17 15:34:16: IN ProcessClientCode Method : If Block
+2024-09-17 15:34:16: IN UPLOAD FILE : resTable
+2024-09-17 15:34:16: IN UPLOAD FILE : Using Block for packagedownload 
+2024-09-17 15:34:16: IN UPLOAD FILE : worksheetdownloadResult
+2024-09-17 15:34:16: IN UPLOAD FILE : Worksheet.Cells
+2024-09-17 15:34:16: IN UPLOAD FILE : StreamSystem.IO.MemoryStream
+2024-09-17 15:34:16: IN UPLOAD FILE : SaveAs
+2024-09-17 15:34:16: IN UPLOAD FILE : Stream Position
+2024-09-17 15:34:16: IN UPLOAD FILE : FileNameDataTableToExcel.xlsx
